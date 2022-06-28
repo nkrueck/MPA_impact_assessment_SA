@@ -1,0 +1,108 @@
+
+A69-1601-11757_96631169_96631174:  transmitter_deployment_id in detections data but not in transmitter metadata
+Offshore Artificial Reef_OAR_110872720:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_SG 1_110969072:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_Dunbar South_105188842:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_SG 2_96630760:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_SG 3_105188852:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_BL 1_105188862:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF / Flinders Uni Glenelg Line_Between Bondi And South Head (Sth)_69365691:  receiver_deployment_id in detections data but not in receiver metadata
+Clyde River_Ricketts natural reef_69365697:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Orpheus Island_Dumb Joe_51061092:  receiver_deployment_id in detections data but not in receiver metadata
+Lady Elliot Island SEQ_South Channel # 2 - Wst of # 1_94997729:  receiver_deployment_id in detections data but not in receiver metadata
+Offshore Artificial Reef_Anonyma shoal(Sandringham)_80747688:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_The heads 5_126909688:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_The heads 7_126506966:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_South Channel # 1_126507005:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_Mornington Hospital_126507072:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_Aircraft/Aeroplane_126909036:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF / Flinders Uni Glenelg Line_Mornington Wide_126506980:  receiver_deployment_id in detections data but not in receiver metadata
+Clyde River_Tyre reef_126507270:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Orpheus Island_Gellibrand_126506909:  receiver_deployment_id in detections data but not in receiver metadata
+Lady Elliot Island SEQ_Tedesco reef_126506902:  receiver_deployment_id in detections data but not in receiver metadata
+Offshore Artificial Reef_The heads 0_126506931:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_Rec reef_126909046:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_Point Henry_126507285:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_The heads 1_126507116:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_Between Bondi And South Head (Nth)_126909070:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_9ft bank (Pt Lillias Channel)_126507159:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF / Flinders Uni Glenelg Line_GL 7_126909673:  receiver_deployment_id in detections data but not in receiver metadata
+Clyde River_Clyde_004_126909651:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Orpheus Island_West Channel # 2 - Sth of # 1_94997719:  receiver_deployment_id in detections data but not in receiver metadata
+Lady Elliot Island SEQ_Barge Carrum_126507022:  receiver_deployment_id in detections data but not in receiver metadata
+Offshore Artificial Reef_Finger_64324146:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_West Channel # 1_65964832:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_Gaso Deep_126909056:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_The Heads 8_126909087:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_Symmonds Channel # 1_126506973:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_Channel Portarlington_126506924:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF / Flinders Uni Glenelg Line_Turning bouy (Clifton Springs)_126506938:  receiver_deployment_id in detections data but not in receiver metadata
+Clyde River_Faulkner Beacon_126506995:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Orpheus Island_P2_126908968:  receiver_deployment_id in detections data but not in receiver metadata
+Lady Elliot Island SEQ_Frankston Inner reef (knob)_126909104:  receiver_deployment_id in detections data but not in receiver metadata
+Offshore Artificial Reef_Woolies_126507100:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_The heads 2_126909703:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_Spoilground_126506945:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_The heads 6_126507048:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_The heads 3_126909660:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_GL 9_126507029:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF / Flinders Uni Glenelg Line_GL 8_126506959:  receiver_deployment_id in detections data but not in receiver metadata
+Clyde River_Symmonds Channel # 2 - Wst of # 1_126909007:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Orpheus Island_Point Ormond_126507088:  receiver_deployment_id in detections data but not in receiver metadata
+Lady Elliot Island SEQ_Mordialloc natural reef_822613:  receiver_deployment_id in detections data but not in receiver metadata
+Offshore Artificial Reef_Yakka reef_822612:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_St Leonards Pier_126507123:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_ORPH 10_126507041:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_Gaso 4 shallow_1718570:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_Mornington paddock_1935352:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_Ansetts_1935351:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF / Flinders Uni Glenelg Line_Seaford 16m_1935382:  receiver_deployment_id in detections data but not in receiver metadata
+Clyde River_The heads 4_1935371:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Orpheus Island_St Kilda Magpie R3_1935381:  receiver_deployment_id in detections data but not in receiver metadata
+Lady Elliot Island SEQ_Carrum Wide_46754208:  receiver_deployment_id in detections data but not in receiver metadata
+Offshore Artificial Reef_VPS1_1935392:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_VPS8_1935355:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_VPS5_1935376:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_VPS3_1935377:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_VPS6_1935388:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_VPS2_1935356:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF / Flinders Uni Glenelg Line_VPS7_1935378:  receiver_deployment_id in detections data but not in receiver metadata
+Clyde River_OAR_1935380:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Orpheus Island_SG 1_1815721:  receiver_deployment_id in detections data but not in receiver metadata
+Lady Elliot Island SEQ_Dunbar South_1712519:  receiver_deployment_id in detections data but not in receiver metadata
+Offshore Artificial Reef_SG 2_1712604:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_SG 3_1935387:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_BL 1_1935353:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_Between Bondi And South Head (Sth)_1935360:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_Ricketts natural reef_1935379:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_Dumb Joe_1935374:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF / Flinders Uni Glenelg Line_South Channel # 2 - Wst of # 1_1935385:  receiver_deployment_id in detections data but not in receiver metadata
+Clyde River_Anonyma shoal(Sandringham)_1712605:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Orpheus Island_The heads 5_1935366:  receiver_deployment_id in detections data but not in receiver metadata
+Lady Elliot Island SEQ_The heads 7_1935370:  receiver_deployment_id in detections data but not in receiver metadata
+Offshore Artificial Reef_South Channel # 1_1935365:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_Mornington Hospital_1935350:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_Aircraft/Aeroplane_1935384:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_Mornington Wide_1935391:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_Tyre reef_1935364:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_Gellibrand_1935363:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF / Flinders Uni Glenelg Line_Tedesco reef_1935372:  receiver_deployment_id in detections data but not in receiver metadata
+Clyde River_The heads 0_1935367:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Orpheus Island_Rec reef_1935393:  receiver_deployment_id in detections data but not in receiver metadata
+Lady Elliot Island SEQ_Point Henry_1712607:  receiver_deployment_id in detections data but not in receiver metadata
+Offshore Artificial Reef_The heads 1_1935369:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_Between Bondi And South Head (Nth)_1935383:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_9ft bank (Pt Lillias Channel)_1935386:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_GL 7_1935362:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_Clyde_004_126909063:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_West Channel # 2 - Sth of # 1_1712603:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF / Flinders Uni Glenelg Line_Barge Carrum_1935390:  receiver_deployment_id in detections data but not in receiver metadata
+Clyde River_Finger_1935373:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Orpheus Island_West Channel # 1_203765921:  receiver_deployment_id in detections data but not in receiver metadata
+Lady Elliot Island SEQ_Gaso Deep_203777817:  receiver_deployment_id in detections data but not in receiver metadata
+Offshore Artificial Reef_The Heads 8_204644654:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Sydney Gate_Symmonds Channel # 1_203961055:  receiver_deployment_id in detections data but not in receiver metadata
+OAR (Sydney)_Channel Portarlington_203769025:  receiver_deployment_id in detections data but not in receiver metadata
+IMOS-ATF Bondi Line_Turning bouy (Clifton Springs)_204418599:  receiver_deployment_id in detections data but not in receiver metadata
+Sydney Offshore_Faulkner Beacon_204070309:  receiver_deployment_id in detections data but not in receiver metadata
+VIC DPI Port Phillip Bay_P2_204518145:  receiver_deployment_id in detections data but not in receiver metadata
